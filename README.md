@@ -105,7 +105,7 @@ As an alternative, see the Github's documentation on [how to create a pull reque
 
 Rachel Galdino - rachelgaldino.dev@gmail.com
 
-Project Link: [Github Repo](https://github.com/rachelmgaldino/Product-Preview-Card)
+Project Link: [Github Repo](https://github.com/rachelmgaldino/Huddle-Landing-Page)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
