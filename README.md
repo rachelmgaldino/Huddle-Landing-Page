@@ -3,19 +3,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rachelmgaldino/QR-Code-Component">
+  <a href="https://github.com/rachelmgaldino/Huddle-Landing-Page">
     <img src="./images/favicon-better.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Product Preview Card</h3>
 
   <p align="center">
-    This is a solution to the <a href="https://www.frontendmentor.io/solutions/product-preview-card-responsive-73RnEw69yR">Product preview component challenge on Frontend Mentor</a>. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+    This is a solution to the <a href="https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub">Huddle landing page with a single introductory section challenge on Frontend Mentor</a>. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
     <br />
     <br />
-    <a href="https://github.com/rachelmgaldino/Product-Preview-Card/issues">Report Bug</a>
+    <a href="https://github.com/rachelmgaldino/Huddle-Landing-Page/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rachelmgaldino/Product-Preview-Card/issues">Request Feature</a>
+    <a href="https://github.com/rachelmgaldino/Huddle-Landing-Page/issues">Request Feature</a>
   </p>
 </div>
 
@@ -76,7 +76,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rachelmgaldino/Product-Preview-Card
+   git clone https://github.com/rachelmgaldino/Huddle-Landing-Page.git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

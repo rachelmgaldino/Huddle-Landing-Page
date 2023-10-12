@@ -154,7 +154,6 @@ footer {
 /* responsive styles */
 @media (max-width: 1300px) {
   .mockup-img {
-    /* width: ; */
     margin: 0;
   }
 }
