@@ -103,7 +103,7 @@ As an alternative, see the Github's documentation on [how to create a pull reque
 <!-- CONTACT -->
 ## Contact
 
-Rachel Galdino - rachelgaldino.dev@gmail.com
+Rachel Galdino - rachel.galdino@outlook.com
 
 Project Link: [Github Repo](https://github.com/rachelmgaldino/Huddle-Landing-Page)
 
